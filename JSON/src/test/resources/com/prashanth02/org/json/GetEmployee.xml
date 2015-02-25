@@ -1,0 +1,20 @@
+<Response>
+	<Header>
+		<Version>1.0</Version>
+		<Log>
+			<Level>None</Level>
+		</Log>
+		<LoginID>abc@abc.com</LoginID>
+		<EntityID>xyz</EntityID>
+		<CompanyID>1</CompanyID>
+	</Header>
+	<Body>
+		<List>
+			<GetEmployee>
+				<Key>100004</Key>
+				<Name>Prashanth</Name>
+				<Company>XYZ2</Company>
+			</GetEmployee>
+		</List>
+	</Body>
+</Response>
